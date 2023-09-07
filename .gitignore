@@ -1,0 +1,19 @@
+node_modules
+.envrc
+.DS_Store
+coverage
+coverage.json
+
+deployments/ganache
+deployments/rinkeby
+deployments/ropsten
+
+#Hardhat files
+cache
+artifacts
+.vscode
+.solhint.json
+.prettierrc
+arguments.js
+
+.env
